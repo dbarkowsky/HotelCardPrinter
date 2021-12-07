@@ -1,0 +1,25 @@
+04/02/2014 06:23am FD5820     Blue Ridge Inn                            Page   1
+
+                                             Arriving and Reserved Guests Report
+Selection Criteria:
+Arrival From :  04/02/2014    Departure From :
+Arrival To   :  04/02/2014    Departure To :
+Building     :  ALL
+Status       :  RESERVED      ** = WAILTLIST   INVENTORY NOT RESERVED
+Guest Type   :                VIP Option: ALL GUEST   VIP Type:
+Sort By?     :  N
+Group Name   :  ALL
+Company Name :  ALL
+
+
+                                                        Res#
+          WL Bld Room#  Rm Type Guest Name/Company      Shar#  Arrival    Departure  Rt Type             Amount Curr Guar   ADULTS CHILDREN  SENIORS EXTRA-AD    YOUTH    OTHER
+
+INDIVIDUAL RESERVATION
+
+
+
+             BRI 116    N2      Cootes, Wilfred          24595 04/02/2014 04/03/2014 FIRS                 60.00      A/R         1
+                                           UCHUCKLESAHT BAND COUNCIL
+                                                             keep next to 24954 - he is her driver for medical visits.
+
